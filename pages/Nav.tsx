@@ -18,7 +18,7 @@ export default function Navbar() {
   
         <div className="hidden md:flex items-center">
           <Button  color="primary" className="mx-4">
-            Login
+            Logins
           </Button>
           <Button  color="primary" className="mx-4">
             Subscribe
